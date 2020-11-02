@@ -29,9 +29,14 @@
     </site>
      <repository>
       <id>deployment</id>
-      <name>Test Project Site</name>
+      <name>Releases</name>
       <url>http://65.0.61.150:8081/repository/Malatesh-Maven/</url>
     </repository>
+     <snapshotRepository>
+        <id>deployment</id>
+        <name>Snapshots</name>
+        <url>http://65.0.61.150:8081/repository/Malatesh-Maven//</url>
+    </snapshotRepository>
   </distributionManagement>
 
   <build> 
