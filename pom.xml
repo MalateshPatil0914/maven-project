@@ -23,7 +23,7 @@
 
   <distributionManagement>
     <site>
-      <id>deployment</id>
+      <id>some-id</id>
       <name>Test Project Site</name>
       <url>http://65.0.61.150:8081/repository/Malatesh-Maven/</url>
     </site>
